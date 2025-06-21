@@ -40,11 +40,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at SRM University and multilingual speaker with a passion
-        for ethical hacking, artificial intelligence, and neural language processing. I am looking
-        to join a company that values innovation, collaboration, and continuous learning and am
-        confident that my enthusiasm and drive will help me succeed in any role that leverages my
-        passion for technology.
+        I am a BTech undergraduate at JSPM RSCOE and a passionate, holistic learner. I have a core interest in Full Stack Development. I have explored domains like Cloud Computing and Cybersecurity through competing in various Hackathons. With hands-on experience in software development and business development, I enjoy problem-solving, innovation, and continuous learning. Beyond tech, I actively engage in cultural and technical events, always seeking new challenges and opportunities to grow.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

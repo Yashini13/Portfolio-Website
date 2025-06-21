@@ -16,6 +16,11 @@ import payloadmaster from "./projects/payloadmaster.png";
 import mhft from "./projects/mhft.png";
 import sketcher from "./projects/sketcher.png";
 import CompileVortex from "./projects/CompileVortex.png";
+import docker from "./tech-stack/download.jpg";
+import download from "./tech-stack/docker.png"
+import ClubsHub from "./projects/ClubsHub.png";
+import PrepWise from './projects/PrepWise.png';
+import CropCare from './projects/CropCare.png';
 
 // Import tech logos
 import css from "./tech/css.png";
@@ -59,4 +64,9 @@ export {
   menu,
   close,
   eduskill,
+  docker,
+  download,
+  CropCare,
+  PrepWise,
+  ClubsHub
 };
